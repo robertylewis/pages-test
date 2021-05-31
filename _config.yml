@@ -230,6 +230,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # logic_and_modeling
+  - scope:
+      path: ""
+      type: logic_and_modeling
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   # - scope:
   #     path: ""
