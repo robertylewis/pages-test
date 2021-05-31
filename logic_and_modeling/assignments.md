@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Logic and Modeling 2020 -- Assignments
 permalink: /logic_and_modeling/assignments
 ---

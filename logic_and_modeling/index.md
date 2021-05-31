@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: archive
 title: Logic and Modeling, Period 5, 2020
 permalink: /logic_and_modeling/
 ---
