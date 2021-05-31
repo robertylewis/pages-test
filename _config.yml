@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Robert Y. Lewis"
   avatar           : "rob.jpg"
   bio              : "Lecturer at Brown University. Proof assistants, formal mathematics, logic, computation."
   location         : "Providence, RI, USA"
