@@ -1,7 +1,8 @@
 ---
 layout: archive
-title: Logic and Modeling, Period 5, 2020
+title: "Logic and Modeling, Period 5, 2020"
 permalink: /logic_and_modeling/
+author_profile: true
 ---
 
 In Spring 2020 I taught Logic and Modeling, a second-year undergraduate course in theoretical computer science, at the VU.
