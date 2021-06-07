@@ -122,8 +122,6 @@ include:
   - .htaccess
   - _pages
   - files
-  - logic_and_modeling
-  - logic_and_modeling_2021
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -183,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  # lm2021:
+  #   output: true
+  #   permalink: /logic_and_modeling_2021/:path/
   # portfolio:
   #   output: true
   #   permalink: /:collection/:path/
@@ -229,6 +230,12 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # - scope:
+  #     path: "_pages/logic_and_modeling_2021/lectures/lecture_1"
+  #   values:
+  #     collection: lm2021
+  #     author_profile: true
+  #     share: true
 
   # _portfolio
   # - scope:
