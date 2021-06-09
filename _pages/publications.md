@@ -12,7 +12,7 @@ My [CV]({{site.url}}/files/cv.pdf) is often more up-to-date than this page.
 
 * Johan Commelin and Robert Y. Lewis.
 
-  [Formalizing the Ring of Witt Vectors.](http://robertylewis.com/files/witt-vectors.pdf)  CPP, 2021.
+  [Formalizing the Ring of Witt Vectors.](http://robertylewis.com/files/witt-vectors.pdf)  CPP, 2021. (Distinguished Paper Award)
 
 * Robert Y. Lewis and Paul-Nicolas Madelaine.
 

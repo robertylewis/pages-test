@@ -7,7 +7,7 @@ comments: false
 
 Johan Commelin and I have released a preprint of our new paper,
 [Formalizing the Ring of Witt Vectors](http://robertylewis.com/files/witt-vectors.pdf)!
-(Update, Nov 25: the paper has been accepted at [CPP '21](https://popl21.sigplan.org/home/CPP-2021#event-overview).)
+(Update, Nov 25: the paper has been accepted at [CPP '21](https://popl21.sigplan.org/home/CPP-2021#event-overview) and recognized as a Distinguished Paper.)
 We describe the construction of the [p-typical Witt vectors](https://en.wikipedia.org/wiki/Witt_vector)
 and their ring structure in Lean, and show that the ring of Witt vectors over the integers modulo p
 is isomorphic to the ring of p-adic integers.
