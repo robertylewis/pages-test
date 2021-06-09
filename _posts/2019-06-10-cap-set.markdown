@@ -1,0 +1,35 @@
+---
+title:  "Formalizing the solution to the cap set problem"
+date:   2019-06-09 13:30:00 +100
+categories: lean
+comments: false
+---
+
+[Sander Dahmen](http://www.few.vu.nl/~sdn249/), [Johannes Hölzl](https://www.cs.vu.nl/~jhl890/), and
+I have formalized [Ellenberg and Gijswijt's solution to the cap set
+problem](https://arxiv.org/abs/1605.09223) in Lean. [Our paper about this
+project](https://lean-forward.github.io/e-g/) will appear at ITP 2019. [Here are some
+slides]({{site.url}}/files/capset_long_slides.pdf) from a talk I gave about this formalization.
+
+The cap set problem is a combinatorial question, easy to ask but difficult to answer. Briefly, it
+asks about the growth rate of the cardinality of *cap sets*, subsets of a group that contain no
+three-term arithmetic progression, as the dimension of the underlying space increases. Ellenberg and
+Gijswijt discovered a solution in 2016; their celebrated proof appeared in the *Annals of
+Mathematics* in 2017. The approach that Ellenberg and Gijswijt take is an extremely clever
+application of elementary methods, which makes it a good candidate to formalize.
+
+Very little cutting-edge mathematics is formalized in proof assistants. Reasons for this are
+well-documented throughout the literature: the costs are too high; the tools and infrastructure are
+not ready; the general expertise isn't there. The [Lean Forward
+project](https://lean-forward.github.io) aims to change this, by spurring collaboration between tool
+developers, formalizers, and mathematicians. Our project is a step toward these goals. Admittedly,
+our choice of a formalization target is uniquely accessible. But this gives us a first data point
+for Lean Forward: at least one modern, noteworthy paper in mathematics can be formalized with a
+reasonable amount of time and effort.
+
+Lean Forward emphasizes that collaboration between people from different areas is needed to bring
+formalized mathematics to the mainstream. Our project is an example of exactly this kind of
+collaboration. We need mathematicians, computer scientists, engineers, and people in between to come
+together to make
+[lofty](http://www.cse.chalmers.se/research/group/logic/TypesSS05/Extra/wiedijk_2.pdf),
+[ambitious](https://formalabstracts.github.io/) formalization projects into reality.
