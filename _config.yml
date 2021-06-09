@@ -141,7 +141,6 @@ exclude:
   - assets/js/vendor
   - config
   - gulpfile.js
-  - log
   - node_modules
   - package.json
   - tmp
